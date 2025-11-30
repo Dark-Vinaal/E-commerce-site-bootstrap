@@ -81,7 +81,8 @@
 
 ## 📸 Screenshots
 
-> ![Homepage Screenshot](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap/blob/main/assets/Screenshot-1.png)
+> ![Homepage Screenshot](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap/blob/main/assets/Screenshot-1.png)    
+ 
 > ![Product Section Screenshot](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap/blob/main/assets/Screenshot-2.png)
 
 ---
