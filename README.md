@@ -19,7 +19,7 @@
 - 💡 Modern & Clean UI
 - 📱 Fully Responsive Design with Bootstrap Grid
 - 🔍 Product Showcase with images, pricing & descriptions
--  Custom Styling using CSS
+- 🎨 Custom Styling using CSS
 - ⚡ Optimized Performance for fast loading
 - 🧭 Smooth Navigation across sections
 - 🧱 Reusable Components (cards, buttons, navbar, footer)
@@ -81,8 +81,8 @@
 
 ## 📸 Screenshots
 
-> ![Homepage Screenshot]()
-> ![Product Section Screenshot]()
+> ![Homepage Screenshot](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap/blob/main/assets/Screenshot-1.png)
+> ![Product Section Screenshot](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap/blob/main/assets/Screenshot-2.png)
 
 ---
 
